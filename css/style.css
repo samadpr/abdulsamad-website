@@ -668,7 +668,7 @@ p.paragraph:after {
     margin-left: 1em;
 }
 
-.w3layouts-map iframe {
+.my-location-map iframe {
     width: 100%;
     min-height: 420px;
     padding: 10px;
